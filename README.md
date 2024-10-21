@@ -4,7 +4,7 @@ This Python script automates mouse clicking for the Tomarket App Airdrop on Tele
 
 ## Preview
 
-[Watch the demo video](DemoTomarketBot.mp4)
+![DemoTomarketBot](https://github.com/user-attachments/assets/89115baf-0c99-4351-86c3-15ad1e8f5471)
 
 ## Features
 

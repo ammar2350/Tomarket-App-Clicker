@@ -2,6 +2,10 @@
 
 This Python script automates mouse clicking for the Tomarket App Airdrop on Telegram. It identifies specific color regions on the screen and clicks on them automatically. This is particularly useful for automating repetitive clicking tasks in the airdrop process.
 
+## Preview
+
+[Watch the demo video](DemoTomarketBot.mp4)
+
 ## Features
 
 - **Automated Mouse Clicking**: The program will automatically click on a target color that you specify.
